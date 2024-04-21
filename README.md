@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Abel Demere, a passionate Software Engineer based in [Your Location].
+My name is Abel Demere, a Software Engineer based in Ethiopia, Addis Ababa.
 
 ### Skills
 
